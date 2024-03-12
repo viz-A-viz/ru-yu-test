@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+
+# Git files
+.git/
+.github/
+.gitignore
+.gitattributes
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Database files
+pg_dump/
+
+# System Files
+.DS_Store
+Thumbs.db
